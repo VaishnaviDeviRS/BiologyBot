@@ -1,0 +1,10 @@
+chainlit
+ctransformers
+torch
+sentence_transformers
+chromadb
+langchain
+pypdf 
+PyPDF2
+langchain-community
+gradio
